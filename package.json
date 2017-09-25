@@ -1,0 +1,14 @@
+{
+  "name": "serverless-microservices",
+  "version": "1.0.0",
+  "description": "Demo microservices implementation which can be easily deployed using serverless technologies on AWS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Mitra <robinmitra1@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "aws-sdk": "^2.118.0"
+  }
+}
